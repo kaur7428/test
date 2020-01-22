@@ -12,7 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student {
     
     private String name;
-    private String status;
+    private String statusa;
 
     public void setStatus(String status) {
         this.status = status;
