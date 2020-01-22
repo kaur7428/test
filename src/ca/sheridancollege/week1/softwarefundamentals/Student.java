@@ -12,14 +12,15 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student {
     
     private String name;
-    private String statusa;
-
+    private String status1;
+private double GPA;
+private String email;
     public void setStatus(String status) {
-        this.status = status;
+        this.status1 = status;
     }
 
     public String getStatus() {
-        return status;
+        return status1;
     }
 
     public double getGPA() {
