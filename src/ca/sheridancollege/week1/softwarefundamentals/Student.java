@@ -8,7 +8,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 /**22-Jan-2020
  *Java is kjhgf
  * @author sidhu376
- * njbhvgcf
+ lkjhbgjkljh
  */
 public class Student {
     
